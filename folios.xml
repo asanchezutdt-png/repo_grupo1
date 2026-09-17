@@ -39,4 +39,48 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-    </teiHeader>
+    </teiHeader> 
+
+    <pb n="i6"/> 
+<table>
+    <head>Santiago del Estero</head>
+    <row>
+        <cell>Del Cachi al Portezuelo</cell>
+        <cell>9</cell>
+    </row>
+    <row>
+        <cell>A Ambargasta</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>A Ayuncha</cell>
+        <cell>30</cell>
+    </row>
+    <row>
+        <cell>A Chañar Pugio</cell>
+        <cell>14</cell>
+    </row>
+    <row>
+        <cell>A Santiago del Estero</cell>
+        <cell>8</cell>
+    </row>
+    <row>
+        <cell>A Vinará</cell>
+        <cell>20</cell>
+    </row>
+    <row>
+        <cell>Son leguas</cell>
+        <cell>88</cell>
+    </row>
+</table>
+
+<pb n="i7"/><p> Luego que se sale de la posta nombrada <placeName key="postacachi">El Cachi</placeName>, da principio la jurisdicción de <placeName key="santiagodelestero">Santiago del Estero</placeName>, territorio expuesto a inundaciones y el menos poblado de todo el <placeName key="tucuman"> Tucumán</placeName>. Los correos siempre pasan por la travesía de 30 leguas que hay de <placeName key="ayuncha"> Ayuncha</placeName> a <placeName key="ambargasta">Ambargasta</placeName>, y pagarán ocho reales más por la <note xml:id="i7n1">remuda</note> de tres caballos, que es en el que va montado el correo, el que lleva las valijas y el del <note xml:id="i7n2">postillón</note>, que ha de volver los caballos. Los pasajeros y correos de particulares, por igual número de caballerías de remuda, pagarán dos pesos, y a proporción en las demás que pidieren para la seguridad y mayor brevedad. En tiempo de avenidas hay muchos bañados que impiden la aceleración del viaje, y por el camino de las carretas suelen formarse unos <note xml:id="i7n3"> sequiones </note> y algunos <note xml:id="i7n4">atolladeros </note> que cortan la marcha, siendo preciso aderezarlos con algunos troncos y espesas ramas. Por este camino se rodean de siete a ocho leguas, pero no faltan ranchos que proveen de corderos, gallinas, pollos, huevos, calabazas, sandías y otras menudencias, al mismo precio que en la jurisdicción de <placeName key="cordoba">Córdoba</placeName>. El río que pasa a orillas de esta ciudad, que tiene este nombre, es caudaloso </p>  
+
+<pb n="i8"/>
+<p> y de él se hacen tres formidables lagunas en tierras de los <note xml:id="i8n1">Avipones</note>, indios gentiles, y en cuyos contornos hay copiosas salinas.
+
+En la ciudad de <placeName key="santiagodelestero">Santiago del Estero</placeName> estuvo la silla episcopal hasta el año de 1690, que se trasladó a <placeName key="cordoba">Córdoba</placeName>, de recelo de las inundaciones del río, que ya había llevado muchas casas. Todavía se mantiene en la plaza la catedral, que sirve de parroquia, que llaman en estos parajes matriz, y tiene mucho mejor fábrica que la de <placeName key="cordoba">Córdoba</placeName>. Los vecinos que llaman sobresalientes no llegan a veinte. Algunos invernan porciones de mulas para vender en <placeName key="salta">Salta</placeName> o conducir al <placeName key="peru">Perú</placeName> de su cuenta, y los demás, que están repartidos en chozas son unos infelices, porque escasea algo la carne. El país es <note xml:id="i8n2">salitroso</note>. Las mujeres trabajan excelentes alfombras y <note xml:id="i8n3"> chuces </note>, pero, como tienen poco expendio, por hacerse en todo el <placeName key="tucuman">Tucumán</placeName>, sólo se fabrican por encargo, y la mayor prueba de su pobreza y corto comercio es que las correspondencias de un año en toda la jurisdicción no pasa de treinta pesos. En la casa que fue de los regulares se pueden alojar cómodamente todos los habitantes de la ciudad de <placeName key="santiagodelestero">Santiago</placeName> y, </p> 
+
+</body>
+</text>
+</TEI> 
