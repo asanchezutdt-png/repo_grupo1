@@ -40,7 +40,8 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader> 
-
+        <text>
+            <body>
     <pb n="i6"/> 
 <table>
     <head>Santiago del Estero</head>
